@@ -1,2 +1,2 @@
 # squareroot
-squarerepo
+squarerepo for finding squareroot
